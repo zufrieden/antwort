@@ -8,4 +8,4 @@
 /.bundle
 
 # Ignore the build directory
-/build
+# /build
